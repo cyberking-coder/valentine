@@ -4,11 +4,11 @@ const messages = [
     "Are you positive?",
     "Pookie please...",
     "Just think about it!",
-    "If you say yes, I will be really sad...",
+    "If you say haan, I will be really sad...",
     "I will be very sad...",
     "I will be very very very sad...",
     "Ok fine, I will stop asking...",
-    "Just kidding, say no please! ❤️"
+    "Just kidding, say nahi hoon please! ❤️"
 ];
 
 let messageIndex = 0;
